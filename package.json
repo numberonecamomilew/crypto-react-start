@@ -1,7 +1,6 @@
 {
-  "name": "landing-page",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@numberonecamomilew/landing-page-start-crypto",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -22,5 +21,21 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
     "vite": "^4.2.0"
+  },
+  "description": "anding-page-wtih-react",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/numberonecamomilew/crypto-react-start.git"
+  },
+  "author": "numberonecamomilew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/numberonecamomilew/crypto-react-start/issues"
+  },
+  "homepage": "https://github.com/numberonecamomilew/crypto-react-start#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
