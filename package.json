@@ -1,6 +1,6 @@
 {
   "name": "@numberonecamomilew/landing-page-start-crypto",
-  "version": "0.2.0",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -29,7 +29,7 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/numberonecamomilew/crypto-react-start.git"
+    "url": "https://github.com/numberonecamomilew/crypto-react-start.git"
   },
   "author": "numberonecamomilew",
   "license": "ISC",
